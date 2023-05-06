@@ -1,0 +1,7 @@
+de\uulm\sp\pvs\util\Difficulty.class
+de\uulm\sp\pvs\sokoban\SokobanLevel.class
+de\uulm\sp\pvs\util\Direction.class
+de\uulm\sp\pvs\sokoban\Sokoban.class
+de\uulm\sp\pvs\App.class
+de\uulm\sp\pvs\util\Pair.class
+de\uulm\sp\pvs\exceptions\SokobanException.class
